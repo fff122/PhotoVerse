@@ -18,10 +18,7 @@
 
 感谢 [linux.do 论坛](https://linux.do/t/topic/153136) 的 **zxd666** 大佬提供图片资源！
 
-Fork 此项目后，复制此项目中的三个文件的 URL：
-- `1url.txt`
-- `2url.txt` 
-- `3url.txt`
+
 
 ### 2. 配置图片源
 
